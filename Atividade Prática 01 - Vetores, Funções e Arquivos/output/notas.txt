@@ -1,0 +1,4 @@
+Nome,Prova1,Prova2,TrabalhoFinal,LabsExercicios
+Ana,8,7,9,10
+Bruno,5,6,7,6
+Carla,10,9,10,9

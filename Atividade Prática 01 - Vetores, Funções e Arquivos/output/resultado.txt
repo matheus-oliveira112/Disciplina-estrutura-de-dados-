@@ -1,0 +1,4 @@
+Nome, Nota final, Conceito
+Ana, 8.3, B
+Bruno, 5.9, D
+Carla, 9.5, A
